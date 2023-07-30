@@ -1,0 +1,13 @@
+{
+  "name": "todomvc-ui",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "TodoMVC frontend",
+  "dependencies": {
+  },
+  "devDependencies": {
+
+  },
+  "author": "Bega",
+  "license": "Hac"
+}
